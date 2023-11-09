@@ -1,0 +1,8 @@
+The project is available on GitHub under the user
+
+bobby-didcoding/drf_course
+GitHub URL: https://github.com/bobby-didcoding/drf_course
+
+There are 8 modules in the training program.
+
+YouTube URL of the course: https://www.youtube.com/watch?v=tujhGdn1EMI&ab_channel=freeCodeCamp.org
